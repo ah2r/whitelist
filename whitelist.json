@@ -1,1 +1,34 @@
-{"WhitelistedUsers": {}}
+{
+    "WhitelistedUsers": {
+        "691944570312851556": {
+            "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
+            "attackable": true,
+            "level": 0,
+            "tags": [
+                {
+                    "text": "Roblox",
+                    "color": [
+                        255,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        "1162625831282147431": {
+            "hash": "bc675fd21a6a14e960ea5273d8db08708b9543a04f19bdd8654a14bc8e6a76adb1bc754d7f1f53c75d66003580ffbee28053843ab40d7205c574044382f5f47a",
+            "attackable": false,
+            "level": 10,
+            "tags": [
+                {
+                    "text": "CATVAPE OWNER",
+                    "color": [
+                        255,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        }
+    }
+}
