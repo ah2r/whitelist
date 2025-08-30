@@ -59,6 +59,21 @@
                     ]
                 }
             ]
+        },
+        "1346961223039586467": {
+            "hash": "702b56d93de39dbc02e282545e66c01d4f669fdf7aeb43532cdd3cb87f34a9783de05889fb636b76b0b00dc3645713dfbf06d480c44d534ffa31502bc77b51ff",
+            "attackable": false,
+            "level": 9000000000,
+            "tags": [
+                {
+                    "text": "pistoniare user",
+                    "color": [
+                        255,
+                        0,
+                        0
+                    ]
+                }
+            ]
         }
     }
 }
