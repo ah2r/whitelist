@@ -2,11 +2,11 @@
     "WhitelistedUsers": {
         "691944570312851556": {
             "hash": "a63289b76419c2bc2055decf3ad512f2ff0ba26613fde0f6b68221e43f51c156fd523f052fee5c10906524f71a80ae84313b694d890f1fdc15641cdbed9dc966",
-            "attackable": true,
-            "level": 1,
+            "attackable": false,
+            "level": 100000,
             "tags": [
                 {
-                    "text": "wqe",
+                    "text": "CATVAPE OWNER",
                     "color": [
                         255,
                         0,
