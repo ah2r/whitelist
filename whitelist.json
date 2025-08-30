@@ -1,12 +1,27 @@
 {
     "WhitelistedUsers": {
         "691944570312851556": {
-            "hash": "a63289b76419c2bc2055decf3ad512f2ff0ba26613fde0f6b68221e43f51c156fd523f052fee5c10906524f71a80ae84313b694d890f1fdc15641cdbed9dc966",
+            "hash": "422683b465564cdc71ab0fb09a881fa441645e8d62c19f4ff0d403e82224410d334418d3a049eb25e509be07cf2e8093fd1c40edeb0872ee1b5d95ae9560a9c3",
             "attackable": false,
-            "level": 100000,
+            "level": 1,
             "tags": [
                 {
                     "text": "CATVAPE OWNER",
+                    "color": [
+                        255,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        "1162625831282147431": {
+            "hash": "e05c16f4c54705d4e45dd023288724b15b04a8782a1b95244d12ded79f24864bcc62771b263f1ef8fde0ddafab1264c5fb24accb759a53ee37116df908518350",
+            "attackable": false,
+            "level": 10,
+            "tags": [
+                {
+                    "text": "outer i think",
                     "color": [
                         255,
                         0,
