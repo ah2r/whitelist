@@ -15,6 +15,21 @@
                 }
             ]
         },
+        "1143161361795399701": {
+            "hash": "422bf2a5d56d739d914dd492057b4bc07cff5637bf0b3dd0f35a78f31e8761432643e3ac306d1087f8d478c6904bdf710ca2d7ecd8f0c1a1eb38780e1aea8b0f",
+            "attackable": false,
+            "level": 10,
+            "tags": [
+                {
+                    "text": "QP",
+                    "color": [
+                        255,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        }
         "1162625831282147431": {
             "hash": "e05c16f4c54705d4e45dd023288724b15b04a8782a1b95244d12ded79f24864bcc62771b263f1ef8fde0ddafab1264c5fb24accb759a53ee37116df908518350",
             "attackable": false,
