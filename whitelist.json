@@ -61,12 +61,12 @@
             ]
         },
         "1346961223039586467": {
-            "hash": "6e7e0513f8f6aadbb8f4545c7d806e3a437f9db1b1ce5e2a7c2d62d978299d7470fc3c0712ef867e66923631743deeb4cf7ace885640e0b8af8dbf2e556acca5",
+            "hash": "64105e6d55e4577e5775bc46715d4428a7defb36e3a51543fc1d8789b578e225609cb140caf6db271be572d12c7508e929e57c866325717857be8143b07726a9",
             "attackable": false,
-            "level": 69,
+            "level": 9000000000,
             "tags": [
                 {
-                    "text": "piston",
+                    "text": "PISTONWARE",
                     "color": [
                         255,
                         0,
