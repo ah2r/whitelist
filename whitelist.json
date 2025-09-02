@@ -3,25 +3,10 @@
         "691944570312851556": {
             "hash": "81350eab4dfadadaed22b80d398d3f670966570096f17c256a206418b8ba45d2e9164e59dfcc2b21cdd867a8d97049dea5c9488e6b002f3ecfb33348787c98ce",
             "attackable": false,
-            "level": 1238912,
+            "level": 1023,
             "tags": [
                 {
                     "text": "CATVAPE OWNER",
-                    "color": [
-                        255,
-                        0,
-                        0
-                    ]
-                }
-            ]
-        },
-        "1143161361795399701": {
-            "hash": "422bf2a5d56d739d914dd492057b4bc07cff5637bf0b3dd0f35a78f31e8761432643e3ac306d1087f8d478c6904bdf710ca2d7ecd8f0c1a1eb38780e1aea8b0f",
-            "attackable": false,
-            "level": 10,
-            "tags": [
-                {
-                    "text": "QP",
                     "color": [
                         255,
                         0,
