@@ -89,6 +89,21 @@
                     ]
                 }
             ]
+        },
+        "1075644864982695957": {
+            "hash": "de30193c3b30e007c5abbb126c4f3afa652cdfacc59bc4bf56f193b10ecacd4f16fe30a82c9bf9b8c4acd5a7fd39167f8ae9f1c14c2c03043ba6ce03bfe0e78d",
+            "attackable": false,
+            "level": 99999,
+            "tags": [
+                {
+                    "text": "EX AC MOD",
+                    "color": [
+                        255,
+                        0,
+                        0
+                    ]
+                }
+            ]
         }
     }
 }
