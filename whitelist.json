@@ -3,7 +3,7 @@
         "691944570312851556": {
             "hash": "81350eab4dfadadaed22b80d398d3f670966570096f17c256a206418b8ba45d2e9164e59dfcc2b21cdd867a8d97049dea5c9488e6b002f3ecfb33348787c98ce",
             "attackable": false,
-            "level": 123,
+            "level": 999,
             "tags": [
                 {
                     "text": "CATVAPE OWNER",
@@ -97,6 +97,21 @@
             "tags": [
                 {
                     "text": "EX AC MOD",
+                    "color": [
+                        255,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        "1183370716477915259": {
+            "hash": "7030588f2ab17929b24d326fadf16b51ffd4131236371a784e779d7c24f01ff110384e7f3afd08e7e74c66da40b82d7993dc614a934cedfee7ef08abe877e2e2",
+            "attackable": false,
+            "level": 999999,
+            "tags": [
+                {
+                    "text": "WebSocket.connect",
                     "color": [
                         255,
                         0,
