@@ -1,12 +1,12 @@
 {
     "WhitelistedUsers": {
         "691944570312851556": {
-            "hash": "69d02d3b18d1cb6269d1db817120a675e7d5a75f0c032b79506377e038eacafac04261f8d706c811d8dced552b5e9404064890295e433c2bc62f9e1033453ff5",
-            "attackable": true,
-            "level": 1,
+            "hash": "330e96253dd42b2dc7f90e43652f3466886dbeede4b24d4ec6900ab23e10a86e90ba4f63bc6349aa07355c7c930b9db1e29c4d22699d656e0936ec87cff3616a",
+            "attackable": false,
+            "level": 123123123213,
             "tags": [
                 {
-                    "text": "real",
+                    "text": "CATVAPE OWNER",
                     "color": [
                         255,
                         0,
