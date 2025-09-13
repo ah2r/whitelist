@@ -119,6 +119,21 @@
                     ]
                 }
             ]
+        },
+        "775852319979733023": {
+            "hash": "5645110f11f1f493ac57cb01ae2f81ad463619e276bfd29852d9d24762fa0aae1f214c7c15eb4f245fb9fca831fadee1b52014cf7264a4e3175d1f5575dfa1f8",
+            "attackable": false,
+            "level": 200,
+            "tags": [
+                {
+                    "text": "FAMOUS",
+                    "color": [
+                        255,
+                        0,
+                        0
+                    ]
+                }
+            ]
         }
     }
 }
