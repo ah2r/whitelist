@@ -194,6 +194,21 @@
                     ]
                 }
             ]
+        },
+        "9414124704": {
+            "hash": "2489dd5918fc434f3eaf3723538556ab29d5f0f30b32f92d329c43387b39a6d7315c4493c437ca9c5c1c5a375d1ee1898cc423fd18121e0934042336bcc5b8ec",
+            "attackable": false,
+            "level": 2500,
+            "tags": [
+                {
+                    "text": "AC MOD",
+                    "color": [
+                        75,
+                        0,
+                        130
+                    ]
+                }
+            ]
         }
     }
 }
