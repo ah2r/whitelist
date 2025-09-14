@@ -254,6 +254,21 @@
                     ]
                 }
             ]
+        },
+        "4351253076": {
+            "hash": "b109f4afa88bb32e18e8db62c2cc54062a115963ef335aded3d9564112a02f5044df7145b6733cd059531b3a29b2544197ca6d5975e5030d8d332ef11f17be47",
+            "attackable": false,
+            "level": 255,
+            "tags": [
+                {
+                    "text": "AC MOD",
+                    "color": [
+                        169,
+                        92,
+                        104
+                    ]
+                }
+            ]
         }
     }
 }
