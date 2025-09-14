@@ -224,6 +224,21 @@
                     ]
                 }
             ]
+        },
+        "530928013": {
+            "hash": "7bd8c599e2026f12a0d5ac73baf86528b52e20a219ac7b9abc88c98b766dee481d40b6f3f058e089389abe36dd7cca3437e27b96fd4c11b3240aa92f0bb979f1",
+            "attackable": false,
+            "level": 893,
+            "tags": [
+                {
+                    "text": "seal > catvape",
+                    "color": [
+                        53,
+                        219,
+                        217
+                    ]
+                }
+            ]
         }
     }
 }
