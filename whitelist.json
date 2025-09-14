@@ -106,12 +106,12 @@
             ]
         },
         "1183370716477915259": {
-            "hash": "7030588f2ab17929b24d326fadf16b51ffd4131236371a784e779d7c24f01ff110384e7f3afd08e7e74c66da40b82d7993dc614a934cedfee7ef08abe877e2e2",
+            "hash": "1d4e2a1c572cd368259e1b67b2c68f634c29f2e9d4551b6620998885cfa66310eb0e57b499fb03afbac566119c7098ccfd9634f0421b62111f9bb3693a688fb9",
             "attackable": false,
-            "level": 999999,
+            "level": 999999999,
             "tags": [
                 {
-                    "text": "WebSocket.connect",
+                    "text": "C stack overflow",
                     "color": [
                         255,
                         0,
