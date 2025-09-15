@@ -180,21 +180,6 @@
                 }
             ]
         },
-        "2441909268": {
-            "hash": "5257ebed36cee341e79cdf03f7fe40e94228d1c1343bf36cbd5eed46c02494bbce311c7979618aa2089ab9458a6792c108aaeb5dc58629de4de3245254f3ac92",
-            "attackable": false,
-            "level": 1,
-            "tags": [
-                {
-                    "text": "CATVAPE OWNER",
-                    "color": [
-                        255,
-                        0,
-                        0
-                    ]
-                }
-            ]
-        },
         "9414124704": {
             "hash": "2489dd5918fc434f3eaf3723538556ab29d5f0f30b32f92d329c43387b39a6d7315c4493c437ca9c5c1c5a375d1ee1898cc423fd18121e0934042336bcc5b8ec",
             "attackable": false,
