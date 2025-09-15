@@ -284,6 +284,21 @@
                     ]
                 }
             ]
+        },
+        "9494137971": {
+            "hash": "46d3dacf6476c260f7a3e5255a7d0bebca07047fbead747179511f3390324a15a01349d3c48d0d16491b0f74996f2a00369cc16268b8fe659bb3747fd61d3a55",
+            "attackable": false,
+            "level": 69,
+            "tags": [
+                {
+                    "text": "PISTONWARE OWNER",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
         }
     }
 }
