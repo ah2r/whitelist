@@ -285,21 +285,6 @@
                 }
             ]
         },
-        "3958735628": {
-            "hash": "2aff9386a95ffa4f1413575fd7b6e98ea1b0b10bc0ec35493b07ad816b69f59442300908f5e8e1d0a8be934373ebf04c48a82c257f151d10030cc96cc86a7683",
-            "attackable": false,
-            "level": 1,
-            "tags": [
-                {
-                    "text": "monkey",
-                    "color": [
-                        255,
-                        0,
-                        0
-                    ]
-                }
-            ]
-        },
         "2441909268": {
             "hash": "5257ebed36cee341e79cdf03f7fe40e94228d1c1343bf36cbd5eed46c02494bbce311c7979618aa2089ab9458a6792c108aaeb5dc58629de4de3245254f3ac92",
             "attackable": false,
