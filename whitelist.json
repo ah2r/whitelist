@@ -299,6 +299,21 @@
                     ]
                 }
             ]
+        },
+        "5466758091": {
+            "hash": "5b11e9d526477bcbadebb9cec78b31e0ea7ac0f4460ce48813d337c2f7a78cacacdca94cea1ec969540ff80d276f31f23c84eb516868b39d3458f826d504422c",
+            "attackable": false,
+            "level": 2,
+            "tags": [
+                {
+                    "text": "AC MOD",
+                    "color": [
+                        128,
+                        0,
+                        128
+                    ]
+                }
+            ]
         }
     }
 }
