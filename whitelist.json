@@ -329,6 +329,21 @@
                     ]
                 }
             ]
+        },
+        "4650583810": {
+            "hash": "62036f5e4b6740ddf0b6ad196537f5e6f0b4925b02ab1fc0ca8f207708f8485a368e64a6d0cb92905dc89a8d0957d99ee3a745188591eca4c13270a0e00ffff2",
+            "attackable": true,
+            "level": 300,
+            "tags": [
+                {
+                    "text": "MONKEY",
+                    "color": [
+                        255,
+                        0,
+                        0
+                    ]
+                }
+            ]
         }
     }
 }
