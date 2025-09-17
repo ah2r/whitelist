@@ -75,25 +75,6 @@
                     ]
                 }
             ]
-        },
-        "6046538087": {
-            "hash": "830e36d7b007264e01a69e3da9bd07f757b9b28ad819b515deedd3af9b4d36a50c4454e5eb31449fe125c041996d03e7d010011202fc6949a20e3cd4c542b982",
-            "attackable": false,
-            "level": 255,
-            "discord": {
-                "userid": "691944570312851556",
-                "name": "maxlasertech"
-            },
-            "tags": [
-                {
-                    "text": "dumbass",
-                    "color": [
-                        255,
-                        0,
-                        0
-                    ]
-                }
-            ]
         }
     }
 }
