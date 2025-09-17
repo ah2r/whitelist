@@ -56,6 +56,25 @@
                     ]
                 }
             ]
+        },
+        "8582066203": {
+            "hash": "a23b54484cc63fd1d994ee6c475793a78f4e40768199a763cd25e665a19a798e1470ee05708960834fb5a91e31a020712df49f2f1d06450acc50ebf6ded024de",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1183370716477915259",
+                "name": "m0n1a_."
+            },
+            "tags": [
+                {
+                    "text": "VAPE USER",
+                    "color": [
+                        255,
+                        255,
+                        0
+                    ]
+                }
+            ]
         }
     }
 }
