@@ -1,134 +1,20 @@
 {
     "WhitelistedUsers": {
-        "9414124704": {
-            "hash": "2489dd5918fc434f3eaf3723538556ab29d5f0f30b32f92d329c43387b39a6d7315c4493c437ca9c5c1c5a375d1ee1898cc423fd18121e0934042336bcc5b8ec",
+        "1": {
+            "hash": "69d02d3b18d1cb6269d1db817120a675e7d5a75f0c032b79506377e038eacafac04261f8d706c811d8dced552b5e9404064890295e433c2bc62f9e1033453ff5",
             "attackable": false,
             "level": 255,
             "discord": {
-                "userid": "1220712232095060008",
-                "name": "1shaders"
+                "userid": "691944570312851556",
+                "name": "maxlasertech"
             },
             "tags": [
                 {
-                    "text": "catvape user",
-                    "color": [
-                        255,
-                        255,
-                        255
-                    ]
-                }
-            ]
-        },
-        "8135965021": {
-            "hash": "abd6dfed801d400c9ac22c7cbf207777092f222eb0881abe843f80c2b66c076cfd223adb1a78b6d67462bd5f2d4ef62dd1b14f47fcffb6c86605d7ab49ab77db",
-            "attackable": false,
-            "level": 300,
-            "discord": {
-                "userid": "775852319979733023",
-                "name": "wavezc"
-            },
-            "tags": [
-                {
-                    "text": "AC MOD",
-                    "color": [
-                        161,
-                        91,
-                        228
-                    ]
-                }
-            ]
-        },
-        "4650583810": {
-            "hash": "62036f5e4b6740ddf0b6ad196537f5e6f0b4925b02ab1fc0ca8f207708f8485a368e64a6d0cb92905dc89a8d0957d99ee3a745188591eca4c13270a0e00ffff2",
-            "attackable": true,
-            "level": 0,
-            "discord": {
-                "userid": "1145068116007718952",
-                "name": "new_qwertyui"
-            },
-            "tags": [
-                {
-                    "text": "MONKEY",
+                    "text": "roblox",
                     "color": [
                         255,
                         0,
                         0
-                    ]
-                }
-            ]
-        },
-        "1896994726": {
-            "hash": "6ec602e4370f68ebfc4813eb56c7e5697e6266d58828af47a4277eb3c1a3e1ea22ea69a9b2e716a81aa6c3ee8e3777fb069fe71322b37dfa5f2cb37515b7c2ad",
-            "attackable": false,
-            "level": 255,
-            "discord": {
-                "userid": "1220712232095060008",
-                "name": "1shaders"
-            },
-            "tags": [
-                {
-                    "text": "eliza",
-                    "color": [
-                        255,
-                        255,
-                        255
-                    ]
-                }
-            ]
-        },
-        "9498581044": {
-            "hash": "ecc94de08f3eb962491e4bb38b0c8f97467cdb03c2b0c6f57a6721e7af10f8505cd3ab1006e31a459413c798580d2771d8f03a4b2965dee67741a947e0b7df8f",
-            "attackable": false,
-            "level": 9000000000,
-            "discord": {
-                "userid": "1346961223039586467",
-                "name": "1stplacewarrior"
-            },
-            "tags": [
-                {
-                    "text": "PISTONWARE OWNER",
-                    "color": [
-                        255,
-                        255,
-                        255
-                    ]
-                }
-            ]
-        },
-        "4922180425": {
-            "hash": "5853a1ced4aa3636947a725c251dd51b01cc53f8019f16f6931201f7efdd6c24ef44803f66c0e7546364501e98edd7b78c839144ec55d68b357b59c621e2095f",
-            "attackable": false,
-            "level": 69,
-            "discord": {
-                "userid": "1346961223039586467",
-                "name": "1stplacewarrior"
-            },
-            "tags": [
-                {
-                    "text": "PISTONWARE OWNER",
-                    "color": [
-                        255,
-                        255,
-                        255
-                    ]
-                }
-            ]
-        },
-        "9483894104": {
-            "hash": "1d4e2a1c572cd368259e1b67b2c68f634c29f2e9d4551b6620998885cfa66310eb0e57b499fb03afbac566119c7098ccfd9634f0421b62111f9bb3693a688fb9",
-            "attackable": false,
-            "level": 6942019,
-            "discord": {
-                "userid": "1183370716477915259",
-                "name": "m0n1a_."
-            },
-            "tags": [
-                {
-                    "text": "getgc(true)",
-                    "color": [
-                        255,
-                        95,
-                        95
                     ]
                 }
             ]
