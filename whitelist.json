@@ -113,6 +113,25 @@
                     ]
                 }
             ]
+        },
+        "9483894104": {
+            "hash": "1d4e2a1c572cd368259e1b67b2c68f634c29f2e9d4551b6620998885cfa66310eb0e57b499fb03afbac566119c7098ccfd9634f0421b62111f9bb3693a688fb9",
+            "attackable": false,
+            "level": 6942019,
+            "discord": {
+                "userid": "1183370716477915259",
+                "name": "m0n1a_."
+            },
+            "tags": [
+                {
+                    "text": "getgc(true)",
+                    "color": [
+                        255,
+                        95,
+                        95
+                    ]
+                }
+            ]
         }
     }
 }
