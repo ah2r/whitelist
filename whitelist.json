@@ -38,25 +38,6 @@
                 }
             ]
         },
-        "9414124704": {
-            "hash": "2489dd5918fc434f3eaf3723538556ab29d5f0f30b32f92d329c43387b39a6d7315c4493c437ca9c5c1c5a375d1ee1898cc423fd18121e0934042336bcc5b8ec",
-            "attackable": false,
-            "level": 9,
-            "discord": {
-                "userid": "1220712232095060008",
-                "name": "1shaders"
-            },
-            "tags": [
-                {
-                    "text": "catvape user",
-                    "color": [
-                        255,
-                        255,
-                        255
-                    ]
-                }
-            ]
-        },
         "8582066203": {
             "hash": "a23b54484cc63fd1d994ee6c475793a78f4e40768199a763cd25e665a19a798e1470ee05708960834fb5a91e31a020712df49f2f1d06450acc50ebf6ded024de",
             "attackable": false,
