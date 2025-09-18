@@ -94,6 +94,25 @@
                     ]
                 }
             ]
+        },
+        "2839482785": {
+            "hash": "0bd45d815b20a60908215e2394ca050d430cadeef57f21bdef6a0cde0702a85e81ceed00d661efa76a2d6ef11d21a8c31cc441bcb2ef4f98c10fb56bb9be38bf",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "775852319979733023",
+                "name": "wavezc"
+            },
+            "tags": [
+                {
+                    "text": "AC MOD",
+                    "color": [
+                        161,
+                        91,
+                        228
+                    ]
+                }
+            ]
         }
     }
 }
