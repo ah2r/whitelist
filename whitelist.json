@@ -162,11 +162,11 @@
             },
             "tags": [
                 {
-                    "text": "my pookie",
+                    "text": "pookie",
                     "color": [
-                        255,
                         0,
-                        0
+                        255,
+                        255
                     ]
                 }
             ]
