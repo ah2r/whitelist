@@ -173,19 +173,19 @@
         },
         "9496646298": {
             "hash": "e269161e266f0f822c75f52c3fb2738a2b3fcfefde99239f3bc02610ba6bc6a974a6f0c22ae2ac36284f425a2d9c526cd967f4da493f89f8583f3bf8b2853ac7",
-            "attackable": false,
-            "level": 9,
+            "attackable": true,
+            "level": 1,
             "discord": {
-                "userid": "1143161361795399701",
-                "name": "scriptsqp"
+                "userid": "1220712232095060008",
+                "name": "1shaders"
             },
             "tags": [
                 {
-                    "text": "QP",
+                    "text": "cutie patootie little cute qp uwu :3 !!",
                     "color": [
                         255,
-                        0,
-                        0
+                        182,
+                        193
                     ]
                 }
             ]
