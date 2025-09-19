@@ -151,6 +151,25 @@
                     ]
                 }
             ]
+        },
+        "5771551084": {
+            "hash": "3e54779fc427fcee067aefa779f5c43b09a2cbf7bfa95df44dde1ec6cd5ffcaa44611c26290b04f33cacf306441d190698d8d9e4ac67ffc38755263d8228c65d",
+            "attackable": false,
+            "level": 255,
+            "discord": {
+                "userid": "691944570312851556",
+                "name": "maxlasertech"
+            },
+            "tags": [
+                {
+                    "text": "my pookie",
+                    "color": [
+                        255,
+                        0,
+                        0
+                    ]
+                }
+            ]
         }
     }
 }
