@@ -170,6 +170,25 @@
                     ]
                 }
             ]
+        },
+        "3958735628": {
+            "hash": "2aff9386a95ffa4f1413575fd7b6e98ea1b0b10bc0ec35493b07ad816b69f59442300908f5e8e1d0a8be934373ebf04c48a82c257f151d10030cc96cc86a7683",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "691944570312851556",
+                "name": "maxlasertech"
+            },
+            "tags": [
+                {
+                    "text": "dumbass monkey",
+                    "color": [
+                        255,
+                        0,
+                        0
+                    ]
+                }
+            ]
         }
     }
 }
