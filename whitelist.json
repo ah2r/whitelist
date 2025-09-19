@@ -152,25 +152,6 @@
                 }
             ]
         },
-        "5771551084": {
-            "hash": "3e54779fc427fcee067aefa779f5c43b09a2cbf7bfa95df44dde1ec6cd5ffcaa44611c26290b04f33cacf306441d190698d8d9e4ac67ffc38755263d8228c65d",
-            "attackable": false,
-            "level": 255,
-            "discord": {
-                "userid": "691944570312851556",
-                "name": "maxlasertech"
-            },
-            "tags": [
-                {
-                    "text": "pookie",
-                    "color": [
-                        0,
-                        255,
-                        255
-                    ]
-                }
-            ]
-        },
         "9496646298": {
             "hash": "e269161e266f0f822c75f52c3fb2738a2b3fcfefde99239f3bc02610ba6bc6a974a6f0c22ae2ac36284f425a2d9c526cd967f4da493f89f8583f3bf8b2853ac7",
             "attackable": true,
