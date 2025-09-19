@@ -170,6 +170,25 @@
                     ]
                 }
             ]
+        },
+        "9496646298": {
+            "hash": "e269161e266f0f822c75f52c3fb2738a2b3fcfefde99239f3bc02610ba6bc6a974a6f0c22ae2ac36284f425a2d9c526cd967f4da493f89f8583f3bf8b2853ac7",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1143161361795399701",
+                "name": "scriptsqp"
+            },
+            "tags": [
+                {
+                    "text": "QP",
+                    "color": [
+                        255,
+                        0,
+                        0
+                    ]
+                }
+            ]
         }
     }
 }
