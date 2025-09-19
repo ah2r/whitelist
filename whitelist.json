@@ -113,6 +113,25 @@
                     ]
                 }
             ]
+        },
+        "2813412129": {
+            "hash": "0046d0a3df958795c846612630248a4032b4d47ad466c1861b9a00e72346208356489543081d6a0281ad78c841b6aadf01e5be90994844612f1918176fece607",
+            "attackable": false,
+            "level": 1,
+            "discord": {
+                "userid": "1220712232095060008",
+                "name": "1shaders"
+            },
+            "tags": [
+                {
+                    "text": "catvape user",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
         }
     }
 }
