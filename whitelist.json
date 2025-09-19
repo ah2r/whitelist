@@ -1,24 +1,5 @@
 {
     "WhitelistedUsers": {
-        "2441909268": {
-            "hash": "5257ebed36cee341e79cdf03f7fe40e94228d1c1343bf36cbd5eed46c02494bbce311c7979618aa2089ab9458a6792c108aaeb5dc58629de4de3245254f3ac92",
-            "attackable": false,
-            "level": 255,
-            "discord": {
-                "userid": "691944570312851556",
-                "name": "maxlasertech"
-            },
-            "tags": [
-                {
-                    "text": "CATVAPE OWNER",
-                    "color": [
-                        255,
-                        95,
-                        95
-                    ]
-                }
-            ]
-        },
         "9483894104": {
             "hash": "1d4e2a1c572cd368259e1b67b2c68f634c29f2e9d4551b6620998885cfa66310eb0e57b499fb03afbac566119c7098ccfd9634f0421b62111f9bb3693a688fb9",
             "attackable": false,
