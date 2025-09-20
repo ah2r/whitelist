@@ -189,6 +189,25 @@
                     ]
                 }
             ]
+        },
+        "3604953623": {
+            "hash": "7727e5026485f30653c38424e637b3137291d870b89ba7c44bc6aadfbd9b9452c9d06ec30c3a38910376ac59a8550655aeb7ca966cb61fc723f760a2bfe1bfb9",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "691944570312851556",
+                "name": "maxlasertech"
+            },
+            "tags": [
+                {
+                    "text": "slave",
+                    "color": [
+                        255,
+                        0,
+                        0
+                    ]
+                }
+            ]
         }
     }
 }
