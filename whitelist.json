@@ -190,25 +190,6 @@
                 }
             ]
         },
-        "3604953623": {
-            "hash": "dd425ecd487de77e7a839deb8d4ae64c97fc49d2d0df12c7a4c1aedb8763a51d1b92af7e5509bb4891c950d9aa6addc9470877339005841b2e20e00331c5eadc",
-            "attackable": false,
-            "level": 255,
-            "discord": {
-                "userid": "691944570312851556",
-                "name": "maxlasertech"
-            },
-            "tags": [
-                {
-                    "text": "slave",
-                    "color": [
-                        255,
-                        0,
-                        0
-                    ]
-                }
-            ]
-        },
         "2340134404": {
             "hash": "9d2e95091a3993412eb7f479c46d6ce197647d12168b50c5fee781a56fa1c635307dd604c579c174281fd03268915af057bca03f62f2c5b662d4018c9b31a4d8",
             "attackable": false,
