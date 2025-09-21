@@ -227,6 +227,25 @@
                     ]
                 }
             ]
+        },
+        "8768474568": {
+            "hash": "f01a817c9fa66c8ad6f67a0cb31be93bab3d5c0cf3eafdf00dbeebaa7df1739e1f0f98acbee1fe4f4c048dc443896531c075cd94d1bacfffc08a369d62cca821",
+            "attackable": false,
+            "level": 255,
+            "discord": {
+                "userid": "691944570312851556",
+                "name": "maxlasertech"
+            },
+            "tags": [
+                {
+                    "text": "sl",
+                    "color": [
+                        255,
+                        0,
+                        0
+                    ]
+                }
+            ]
         }
     }
 }
