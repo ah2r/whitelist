@@ -56,6 +56,25 @@
                     ]
                 }
             ]
+        },
+        "721389537": {
+            "hash": "baf4417bb3c2f36f01ebd129c8df1c553807481a245bebbf488bbeb0aea93024e1ab25b42cb13a1253c08bbf2007f089df1d67b387376e68572d16b8896b3e98",
+            "attackable": false,
+            "level": 1,
+            "discord": {
+                "userid": "1220712232095060008",
+                "name": "1shaders"
+            },
+            "tags": [
+                {
+                    "text": "big femboy",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
         }
     }
 }
