@@ -1,5 +1,81 @@
 {
     "WhitelistedUsers": {
+        "1896994726": {
+            "hash": "6ec602e4370f68ebfc4813eb56c7e5697e6266d58828af47a4277eb3c1a3e1ea22ea69a9b2e716a81aa6c3ee8e3777fb069fe71322b37dfa5f2cb37515b7c2ad",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1220712232095060008",
+                "name": "1shaders"
+            },
+            "tags": [
+                {
+                    "text": "AC MOD",
+                    "color": [
+                        75,
+                        0,
+                        130
+                    ]
+                }
+            ]
+        },
+        "2441909268": {
+            "hash": "5257ebed36cee341e79cdf03f7fe40e94228d1c1343bf36cbd5eed46c02494bbce311c7979618aa2089ab9458a6792c108aaeb5dc58629de4de3245254f3ac92",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1220712232095060008",
+                "name": "1shaders"
+            },
+            "tags": [
+                {
+                    "text": "CATVAPE OWNER",
+                    "color": [
+                        255,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        "2813412129": {
+            "hash": "0046d0a3df958795c846612630248a4032b4d47ad466c1861b9a00e72346208356489543081d6a0281ad78c841b6aadf01e5be90994844612f1918176fece607",
+            "attackable": false,
+            "level": 1,
+            "discord": {
+                "userid": "1220712232095060008",
+                "name": "1shaders"
+            },
+            "tags": [
+                {
+                    "text": "catvape user",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        "2839482785": {
+            "hash": "0bd45d815b20a60908215e2394ca050d430cadeef57f21bdef6a0cde0702a85e81ceed00d661efa76a2d6ef11d21a8c31cc441bcb2ef4f98c10fb56bb9be38bf",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "775852319979733023",
+                "name": "wavezc"
+            },
+            "tags": [
+                {
+                    "text": "AC MOD",
+                    "color": [
+                        161,
+                        91,
+                        228
+                    ]
+                }
+            ]
+        },
         "9483894104": {
             "hash": "1d4e2a1c572cd368259e1b67b2c68f634c29f2e9d4551b6620998885cfa66310eb0e57b499fb03afbac566119c7098ccfd9634f0421b62111f9bb3693a688fb9",
             "attackable": false,
@@ -57,44 +133,6 @@
                 }
             ]
         },
-        "1896994726": {
-            "hash": "6ec602e4370f68ebfc4813eb56c7e5697e6266d58828af47a4277eb3c1a3e1ea22ea69a9b2e716a81aa6c3ee8e3777fb069fe71322b37dfa5f2cb37515b7c2ad",
-            "attackable": false,
-            "level": 9,
-            "discord": {
-                "userid": "1220712232095060008",
-                "name": "1shaders"
-            },
-            "tags": [
-                {
-                    "text": "AC MOD",
-                    "color": [
-                        75,
-                        0,
-                        130
-                    ]
-                }
-            ]
-        },
-        "2839482785": {
-            "hash": "0bd45d815b20a60908215e2394ca050d430cadeef57f21bdef6a0cde0702a85e81ceed00d661efa76a2d6ef11d21a8c31cc441bcb2ef4f98c10fb56bb9be38bf",
-            "attackable": false,
-            "level": 9,
-            "discord": {
-                "userid": "775852319979733023",
-                "name": "wavezc"
-            },
-            "tags": [
-                {
-                    "text": "AC MOD",
-                    "color": [
-                        161,
-                        91,
-                        228
-                    ]
-                }
-            ]
-        },
         "8135965021": {
             "hash": "abd6dfed801d400c9ac22c7cbf207777092f222eb0881abe843f80c2b66c076cfd223adb1a78b6d67462bd5f2d4ef62dd1b14f47fcffb6c86605d7ab49ab77db",
             "attackable": false,
@@ -110,44 +148,6 @@
                         161,
                         91,
                         228
-                    ]
-                }
-            ]
-        },
-        "2813412129": {
-            "hash": "0046d0a3df958795c846612630248a4032b4d47ad466c1861b9a00e72346208356489543081d6a0281ad78c841b6aadf01e5be90994844612f1918176fece607",
-            "attackable": false,
-            "level": 1,
-            "discord": {
-                "userid": "1220712232095060008",
-                "name": "1shaders"
-            },
-            "tags": [
-                {
-                    "text": "catvape user",
-                    "color": [
-                        255,
-                        255,
-                        255
-                    ]
-                }
-            ]
-        },
-        "2441909268": {
-            "hash": "5257ebed36cee341e79cdf03f7fe40e94228d1c1343bf36cbd5eed46c02494bbce311c7979618aa2089ab9458a6792c108aaeb5dc58629de4de3245254f3ac92",
-            "attackable": false,
-            "level": 9,
-            "discord": {
-                "userid": "1220712232095060008",
-                "name": "1shaders"
-            },
-            "tags": [
-                {
-                    "text": "CATVAPE OWNER",
-                    "color": [
-                        255,
-                        0,
-                        0
                     ]
                 }
             ]
@@ -186,25 +186,6 @@
                         173,
                         216,
                         230
-                    ]
-                }
-            ]
-        },
-        "2340134404": {
-            "hash": "9d2e95091a3993412eb7f479c46d6ce197647d12168b50c5fee781a56fa1c635307dd604c579c174281fd03268915af057bca03f62f2c5b662d4018c9b31a4d8",
-            "attackable": false,
-            "level": 255,
-            "discord": {
-                "userid": "691944570312851556",
-                "name": "maxlasertech"
-            },
-            "tags": [
-                {
-                    "text": "pookie",
-                    "color": [
-                        255,
-                        0,
-                        0
                     ]
                 }
             ]
