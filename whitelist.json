@@ -24,16 +24,16 @@
             "attackable": false,
             "level": 9,
             "discord": {
-                "userid": "691944570312851556",
-                "name": "maxlasertech"
+                "userid": "1220712232095060008",
+                "name": "1shaders"
             },
             "tags": [
                 {
-                    "text": "retarded monkey",
+                    "text": "catvape admin",
                     "color": [
                         255,
-                        0,
-                        0
+                        255,
+                        255
                     ]
                 }
             ]
