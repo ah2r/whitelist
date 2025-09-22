@@ -37,25 +37,6 @@
                     ]
                 }
             ]
-        },
-        "2422499343": {
-            "hash": "c3ec84c37f8af301b0c36523c8f13e7dbdaaf839cf539d90d51ed1d539ace9b9f27d638c0753d7f2e4bfa2054e0a3b5e458f531806b8f78ca00930ba2928d2d7",
-            "attackable": true,
-            "level": 0,
-            "discord": {
-                "userid": "1220712232095060008",
-                "name": "1shaders"
-            },
-            "tags": [
-                {
-                    "text": "racist monkey",
-                    "color": [
-                        255,
-                        0,
-                        0
-                    ]
-                }
-            ]
         }
     }
 }
