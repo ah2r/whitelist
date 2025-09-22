@@ -3,18 +3,18 @@
         "2441909268": {
             "hash": "5257ebed36cee341e79cdf03f7fe40e94228d1c1343bf36cbd5eed46c02494bbce311c7979618aa2089ab9458a6792c108aaeb5dc58629de4de3245254f3ac92",
             "attackable": false,
-            "level": 9,
+            "level": 255,
             "discord": {
-                "userid": "1220712232095060008",
-                "name": "1shaders"
+                "userid": "691944570312851556",
+                "name": "maxlasertech"
             },
             "tags": [
                 {
                     "text": "CATVAPE OWNER",
                     "color": [
                         255,
-                        0,
-                        0
+                        255,
+                        255
                     ]
                 }
             ]
