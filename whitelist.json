@@ -57,25 +57,6 @@
                 }
             ]
         },
-        "1896994726": {
-            "hash": "6ec602e4370f68ebfc4813eb56c7e5697e6266d58828af47a4277eb3c1a3e1ea22ea69a9b2e716a81aa6c3ee8e3777fb069fe71322b37dfa5f2cb37515b7c2ad",
-            "attackable": false,
-            "level": 1,
-            "discord": {
-                "userid": "1220712232095060008",
-                "name": "1shaders"
-            },
-            "tags": [
-                {
-                    "text": "good girl",
-                    "color": [
-                        63,
-                        0,
-                        255
-                    ]
-                }
-            ]
-        },
         "9554231533": {
             "hash": "476f39e0c4684828dafcf0336e6fa4b95086a6094c079ebc780603de68f45f66fe4d54dd3554f871ac28f9bc8257cec7e8addc3e7ca69c8167002fce4c329c62",
             "attackable": false,
