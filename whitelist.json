@@ -96,20 +96,20 @@
             ]
         },
         "2340134404": {
-            "hash": "e6951f445f469f0e6ace1b03e76b9e77e25b0a1645182d9656c3df3ffc56b1850887f41e2d64160542dde931d1de075777cadf713348b088b097b0f1927bc782",
+            "hash": "9d2e95091a3993412eb7f479c46d6ce197647d12168b50c5fee781a56fa1c635307dd604c579c174281fd03268915af057bca03f62f2c5b662d4018c9b31a4d8",
             "attackable": false,
-            "level": 9,
+            "level": 200,
             "discord": {
                 "userid": "691944570312851556",
                 "name": "maxlasertech"
             },
             "tags": [
                 {
-                    "text": "pookie",
+                    "text": "CATVAPE OWNER",
                     "color": [
                         255,
-                        0,
-                        0
+                        255,
+                        255
                     ]
                 }
             ]
