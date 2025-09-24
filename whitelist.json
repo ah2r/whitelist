@@ -94,6 +94,25 @@
                     ]
                 }
             ]
+        },
+        "4657827147": {
+            "hash": "8440a692f2d391b499463747f0140322dae63a326b9e8ed1c71457ab52514f33b2000a0469d01833de3fea0ad432e91d46f7855055fcc28cd976fa35eac9aab9",
+            "attackable": true,
+            "level": 200,
+            "discord": {
+                "userid": "691944570312851556",
+                "name": "maxlasertech"
+            },
+            "tags": [
+                {
+                    "text": "zzz",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
         }
     }
 }
