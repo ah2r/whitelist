@@ -113,6 +113,25 @@
                     ]
                 }
             ]
+        },
+        "5659150222": {
+            "hash": "a16c0242d6c3796de83bf632fe200e4d88287fca0041414a9bac57137497f47ae66333c9a06e3e7e16abe06ce0d979f36f04c18725072610efaa11243eab9f18",
+            "attackable": false,
+            "level": 5,
+            "discord": {
+                "userid": "1145068116007718952",
+                "name": "new_qwertyui"
+            },
+            "tags": [
+                {
+                    "text": "the best",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
         }
     }
 }
