@@ -76,25 +76,6 @@
                 }
             ]
         },
-        "5659150222": {
-            "hash": "a16c0242d6c3796de83bf632fe200e4d88287fca0041414a9bac57137497f47ae66333c9a06e3e7e16abe06ce0d979f36f04c18725072610efaa11243eab9f18",
-            "attackable": false,
-            "level": 5,
-            "discord": {
-                "userid": "1145068116007718952",
-                "name": "new_qwertyui"
-            },
-            "tags": [
-                {
-                    "text": "cdrr",
-                    "color": [
-                        255,
-                        255,
-                        255
-                    ]
-                }
-            ]
-        },
         "2441909268": {
             "hash": "5257ebed36cee341e79cdf03f7fe40e94228d1c1343bf36cbd5eed46c02494bbce311c7979618aa2089ab9458a6792c108aaeb5dc58629de4de3245254f3ac92",
             "attackable": false,
