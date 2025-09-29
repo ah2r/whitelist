@@ -113,25 +113,6 @@
                     ]
                 }
             ]
-        },
-        "9455301047": {
-            "hash": "3da392bfeb5b6bef484d4ebabf0da13b5115f75ea41e2ad4f52be999070e298b9249ff664ca67c7649012cb3596d22bdcf12de71bccedd472d6dbcc070240548",
-            "attackable": false,
-            "level": 1,
-            "discord": {
-                "userid": "1220712232095060008",
-                "name": "1shaders"
-            },
-            "tags": [
-                {
-                    "text": "catvape admin",
-                    "color": [
-                        255,
-                        255,
-                        255
-                    ]
-                }
-            ]
         }
     }
 }
