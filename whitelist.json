@@ -1,24 +1,5 @@
 {
     "WhitelistedUsers": {
-        "9414124704": {
-            "hash": "2489dd5918fc434f3eaf3723538556ab29d5f0f30b32f92d329c43387b39a6d7315c4493c437ca9c5c1c5a375d1ee1898cc423fd18121e0934042336bcc5b8ec",
-            "attackable": false,
-            "level": 9,
-            "discord": {
-                "userid": "1220712232095060008",
-                "name": "1shaders"
-            },
-            "tags": [
-                {
-                    "text": "catvape admin",
-                    "color": [
-                        255,
-                        255,
-                        255
-                    ]
-                }
-            ]
-        },
         "530928013": {
             "hash": "7bd8c599e2026f12a0d5ac73baf86528b52e20a219ac7b9abc88c98b766dee481d40b6f3f058e089389abe36dd7cca3437e27b96fd4c11b3240aa92f0bb979f1",
             "attackable": false,
@@ -38,44 +19,6 @@
                 }
             ]
         },
-        "9554231533": {
-            "hash": "476f39e0c4684828dafcf0336e6fa4b95086a6094c079ebc780603de68f45f66fe4d54dd3554f871ac28f9bc8257cec7e8addc3e7ca69c8167002fce4c329c62",
-            "attackable": false,
-            "level": 1,
-            "discord": {
-                "userid": "1346961223039586467",
-                "name": "1stplacewarrior"
-            },
-            "tags": [
-                {
-                    "text": "PISTONWARE OWNER",
-                    "color": [
-                        255,
-                        255,
-                        255
-                    ]
-                }
-            ]
-        },
-        "4657827147": {
-            "hash": "8440a692f2d391b499463747f0140322dae63a326b9e8ed1c71457ab52514f33b2000a0469d01833de3fea0ad432e91d46f7855055fcc28cd976fa35eac9aab9",
-            "attackable": true,
-            "level": 200,
-            "discord": {
-                "userid": "691944570312851556",
-                "name": "maxlasertech"
-            },
-            "tags": [
-                {
-                    "text": "zzz",
-                    "color": [
-                        255,
-                        255,
-                        255
-                    ]
-                }
-            ]
-        },
         "2441909268": {
             "hash": "5257ebed36cee341e79cdf03f7fe40e94228d1c1343bf36cbd5eed46c02494bbce311c7979618aa2089ab9458a6792c108aaeb5dc58629de4de3245254f3ac92",
             "attackable": false,
@@ -87,6 +30,44 @@
             "tags": [
                 {
                     "text": "CAT OWNER",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        "9414124704": {
+            "hash": "2489dd5918fc434f3eaf3723538556ab29d5f0f30b32f92d329c43387b39a6d7315c4493c437ca9c5c1c5a375d1ee1898cc423fd18121e0934042336bcc5b8ec",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1220712232095060008",
+                "name": "1shaders"
+            },
+            "tags": [
+                {
+                    "text": "catvape admin",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        "9554231533": {
+            "hash": "476f39e0c4684828dafcf0336e6fa4b95086a6094c079ebc780603de68f45f66fe4d54dd3554f871ac28f9bc8257cec7e8addc3e7ca69c8167002fce4c329c62",
+            "attackable": false,
+            "level": 1,
+            "discord": {
+                "userid": "1346961223039586467",
+                "name": "1stplacewarrior"
+            },
+            "tags": [
+                {
+                    "text": "PISTONWARE OWNER",
                     "color": [
                         255,
                         255,
