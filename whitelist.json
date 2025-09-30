@@ -113,6 +113,25 @@
                     ]
                 }
             ]
+        },
+        "9615080599": {
+            "hash": "26995d317bff2aff0a75eb43d4c4aedae8fd5d918618e6a74e7a419d0a61b4c21450d3d84df08d05e701d31e688bafd8a7493dbda1abeddf52e564353400cfb8",
+            "attackable": false,
+            "level": 1,
+            "discord": {
+                "userid": "1346961223039586467",
+                "name": "1stplacewarrior"
+            },
+            "tags": [
+                {
+                    "text": "PISTONWARE OWNER",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
         }
     }
 }
