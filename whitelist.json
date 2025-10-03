@@ -170,6 +170,25 @@
                     ]
                 }
             ]
+        },
+        "9632096955": {
+            "hash": "9f3f97ba0aaeef888109ad37003421fa8cbffc766bba1a236a75a1c0c2747b81622f7dfa198eff3c1a1536a284f7cee1982d1d2882789179a1741c510a16cd43",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1143161361795399701",
+                "name": "scriptsqp"
+            },
+            "tags": [
+                {
+                    "text": "QP",
+                    "color": [
+                        255,
+                        0,
+                        0
+                    ]
+                }
+            ]
         }
     }
 }
