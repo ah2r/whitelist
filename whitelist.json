@@ -246,6 +246,25 @@
                     ]
                 }
             ]
+        },
+        "9254864963": {
+            "hash": "bb61109603cb15e480cdfe3efe8808e0f499db975a7657a72562ca98642b2279e0e1a0a89938874890f78d2c1d979f01502b21ecbfd681332cd0848f2ce3bd94",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1183370716477915259",
+                "name": "m0n1a_."
+            },
+            "tags": [
+                {
+                    "text": "CATVAPE USER",
+                    "color": [
+                        255,
+                        255,
+                        0
+                    ]
+                }
+            ]
         }
     }
 }
