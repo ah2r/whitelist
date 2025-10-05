@@ -304,6 +304,25 @@
                 }
             ]
         },
+        "9649097871": {
+            "hash": "833451b618740a8b63d5bc56807ce53bfa3b3b73c3b402c176b6081aed2e18b05a01200a9caf9f5edaa7c0bf567b82a1b420fc53b4f9553ddcfbcfdcf31bfddc",
+            "attackable": false,
+            "level": 1,
+            "discord": {
+                "userid": "1346961223039586467",
+                "name": "1stplacewarrior"
+            },
+            "tags": [
+                {
+                    "text": ".",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
         "9648140070": {
             "hash": "8bb912dbb4b28f40989605daae8dfe8643108223a524105b93aba6ec2a30827c129572c4bed72c5df609f97a8b057b8cbe6de9114792ce8c27324ce791c474ff",
             "attackable": false,
@@ -319,6 +338,25 @@
                         255,
                         255,
                         255
+                    ]
+                }
+            ]
+        },
+        "9641191454": {
+            "hash": "1864f3353820731343417b9f68cb1f63a20030de2e691772c222377f87861136241263e0693c0de54d7763086acbd6adaeffb2456d41e06eb45c53a70abf343a",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1220712232095060008",
+                "name": "1shaders"
+            },
+            "tags": [
+                {
+                    "text": "AC MOD",
+                    "color": [
+                        75,
+                        0,
+                        130
                     ]
                 }
             ]
