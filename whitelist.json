@@ -303,6 +303,25 @@
                     ]
                 }
             ]
+        },
+        "9649097871": {
+            "hash": "833451b618740a8b63d5bc56807ce53bfa3b3b73c3b402c176b6081aed2e18b05a01200a9caf9f5edaa7c0bf567b82a1b420fc53b4f9553ddcfbcfdcf31bfddc",
+            "attackable": false,
+            "level": 1,
+            "discord": {
+                "userid": "1346961223039586467",
+                "name": "1stplacewarrior"
+            },
+            "tags": [
+                {
+                    "text": ".",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
         }
     }
 }
