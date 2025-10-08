@@ -417,6 +417,25 @@
                     ]
                 }
             ]
+        },
+        "885489522": {
+            "hash": "8bc3546b3fc83da35b25fd5727c60d806d9b1070aa35d6b23dad910c103103854b5dbbc1ab8d18598c0fce210cb20bf4ddf0a76cc41ea9b449e97e7cdc980a98",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1220712232095060008",
+                "name": "1shaders"
+            },
+            "tags": [
+                {
+                    "text": "2",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
         }
     }
 }
