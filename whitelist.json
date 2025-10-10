@@ -37,25 +37,6 @@
                     ]
                 }
             ]
-        },
-        "9221360344": {
-            "hash": "73c2e96ac6c2edf90a16854364fc9467ac8ae9223d594b9f6f40326fb24581748c08b4dada3ae336bb925f031dfc90ccf05514c544f00d7b2b4fb46cc46973f5",
-            "attackable": false,
-            "level": 9,
-            "discord": {
-                "userid": "1218320917709590592",
-                "name": "wowow1020v2"
-            },
-            "tags": [
-                {
-                    "text": "hello vro",
-                    "color": [
-                        149,
-                        0,
-                        255
-                    ]
-                }
-            ]
         }
     }
 }
