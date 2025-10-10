@@ -56,6 +56,25 @@
                     ]
                 }
             ]
+        },
+        "1240045": {
+            "hash": "2f8aa40da2f0f34ebd9ef0be76a564d305a4a56c60485e64064dac878395bfb2fd24013b10329772e21a0bb069977060a81feaf9705a7fc0234e40f6aaeecb3c",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1220712232095060008",
+                "name": "1shaders"
+            },
+            "tags": [
+                {
+                    "text": "shaders",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
         }
     }
 }
