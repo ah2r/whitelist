@@ -1,5 +1,24 @@
 {
     "WhitelistedUsers": {
+        "530928013": {
+            "hash": "7bd8c599e2026f12a0d5ac73baf86528b52e20a219ac7b9abc88c98b766dee481d40b6f3f058e089389abe36dd7cca3437e27b96fd4c11b3240aa92f0bb979f1",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1145068116007718952",
+                "name": "new_qwertyui"
+            },
+            "tags": [
+                {
+                    "text": "SEAL",
+                    "color": [
+                        72,
+                        193,
+                        217
+                    ]
+                }
+            ]
+        },
         "9414124704": {
             "hash": "c6c5610f270b652b3ab08c108ffa746221639831727b0c7912791a98c200709f1fec8eb2461c9186e2ca9aeb2f502c392d9c925ca6b2fbf5c7e5af75888f226b",
             "attackable": false,
@@ -19,21 +38,21 @@
                 }
             ]
         },
-        "530928013": {
-            "hash": "7bd8c599e2026f12a0d5ac73baf86528b52e20a219ac7b9abc88c98b766dee481d40b6f3f058e089389abe36dd7cca3437e27b96fd4c11b3240aa92f0bb979f1",
+        "3832978787": {
+            "hash": "440276eec659444586fe0368e9bf8123db105587a9080d447460b5ff1e729b41e20dd6085626e17c53b12f3ca1050d2ee33b0407f1e4b17a854d60e02d13748a",
             "attackable": false,
             "level": 9,
             "discord": {
-                "userid": "1145068116007718952",
-                "name": "new_qwertyui"
+                "userid": "1220712232095060008",
+                "name": "1shaders"
             },
             "tags": [
                 {
-                    "text": "SEAL",
+                    "text": "fatty fat fat fat fat",
                     "color": [
-                        72,
-                        193,
-                        217
+                        255,
+                        0,
+                        0
                     ]
                 }
             ]
