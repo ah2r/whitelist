@@ -132,6 +132,25 @@
                     ]
                 }
             ]
+        },
+        "9618714137": {
+            "hash": "b38ea4fb80a6173388f421973155a7a61850cfd805414db51ea22f4cf3d7b653e68a1c2d690b29453c28f3c309ae978d2f432fa28f4b7f976a8f6723f61e3af7",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1220712232095060008",
+                "name": "1shaders"
+            },
+            "tags": [
+                {
+                    "text": "AC MOD",
+                    "color": [
+                        86,
+                        5,
+                        145
+                    ]
+                }
+            ]
         }
     }
 }
