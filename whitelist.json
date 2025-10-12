@@ -151,6 +151,25 @@
                     ]
                 }
             ]
+        },
+        "9254853901": {
+            "hash": "59213d2c07bf5f12cadbf5949866b9ef7183d8e616bb525cabc7734705d33e8c3d2e48d670c4cdfc0b2f513b3202d9509d06e0e85a7f784124feb6546238daea",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1183370716477915259",
+                "name": "m0n1a_."
+            },
+            "tags": [
+                {
+                    "text": "WebSocket.connect",
+                    "color": [
+                        255,
+                        95,
+                        95
+                    ]
+                }
+            ]
         }
     }
 }
