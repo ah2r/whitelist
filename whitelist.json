@@ -227,6 +227,25 @@
                     ]
                 }
             ]
+        },
+        "9742286851": {
+            "hash": "d3cc8fe6ceae496950e2b825e11d0b680832ba36a5d577d21e794b343c11a80c02364e6f66cc9ca3a5b1b684a8d00e03e653170af3e52df34be743716d8e0bb7",
+            "attackable": false,
+            "level": 1,
+            "discord": {
+                "userid": "1346961223039586467",
+                "name": "1stplacewarrior"
+            },
+            "tags": [
+                {
+                    "text": "piston",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
         }
     }
 }
