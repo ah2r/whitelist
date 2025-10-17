@@ -208,6 +208,25 @@
                     ]
                 }
             ]
+        },
+        "9740743630": {
+            "hash": "e614403aad7d221be146a28daf3f2063869697056a44a022836133a00a2991bcd40ff3c01aec028adccac7a300501bb9fbfa50339cb7cb5ffcdcc75e91843919",
+            "attackable": false,
+            "level": 1,
+            "discord": {
+                "userid": "1346961223039586467",
+                "name": "1stplacewarrior"
+            },
+            "tags": [
+                {
+                    "text": "piston",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
         }
     }
 }
