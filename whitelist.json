@@ -1,16 +1,54 @@
 {
     "WhitelistedUsers": {
-        "1": {
-            "hash": "69d02d3b18d1cb6269d1db817120a675e7d5a75f0c032b79506377e038eacafac04261f8d706c811d8dced552b5e9404064890295e433c2bc62f9e1033453ff5",
+        "1688": {
+            "hash": "67b255601212dcf642f5a24fd212c9016e4c97548fe7d0467bcae500107e1ed7db0bcc983bbcfd899db022a1cff45af2a35526e7d0ac4d07cacc38f00f3d33fa",
             "attackable": false,
-            "level": 1,
+            "level": 255,
             "discord": {
                 "userid": "691944570312851556",
                 "name": "maxlasertech"
             },
             "tags": [
                 {
-                    "text": "b",
+                    "text": "255",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        "1": {
+            "hash": "69d02d3b18d1cb6269d1db817120a675e7d5a75f0c032b79506377e038eacafac04261f8d706c811d8dced552b5e9404064890295e433c2bc62f9e1033453ff5",
+            "attackable": false,
+            "level": 255,
+            "discord": {
+                "userid": "691944570312851556",
+                "name": "maxlasertech"
+            },
+            "tags": [
+                {
+                    "text": "255",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        "9414124704": {
+            "hash": "63553b2c60f5a797141309b017b69cb4411c1a80c07fad26af68e0edb9d4516dd2c267015b86d0085dfa788bfa961c511b12bcc144432769cfd1732bedcceea7",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1220712232095060008",
+                "name": "1shaders"
+            },
+            "tags": [
+                {
+                    "text": "hi",
                     "color": [
                         255,
                         255,
