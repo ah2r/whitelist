@@ -1,35 +1,16 @@
 {
     "WhitelistedUsers": {
-        "1688": {
-            "hash": "67b255601212dcf642f5a24fd212c9016e4c97548fe7d0467bcae500107e1ed7db0bcc983bbcfd899db022a1cff45af2a35526e7d0ac4d07cacc38f00f3d33fa",
-            "attackable": false,
-            "level": 255,
-            "discord": {
-                "userid": "691944570312851556",
-                "name": "maxlasertech"
-            },
-            "tags": [
-                {
-                    "text": "255",
-                    "color": [
-                        255,
-                        255,
-                        255
-                    ]
-                }
-            ]
-        },
         "1": {
             "hash": "69d02d3b18d1cb6269d1db817120a675e7d5a75f0c032b79506377e038eacafac04261f8d706c811d8dced552b5e9404064890295e433c2bc62f9e1033453ff5",
             "attackable": false,
-            "level": 255,
+            "level": 1,
             "discord": {
                 "userid": "691944570312851556",
                 "name": "maxlasertech"
             },
             "tags": [
                 {
-                    "text": "255",
+                    "text": "1",
                     "color": [
                         255,
                         255,
