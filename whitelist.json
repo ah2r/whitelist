@@ -75,6 +75,25 @@
                     ]
                 }
             ]
+        },
+        "9759665861": {
+            "hash": "f50608430ae8bbdea0a520a318d266316269dcbe4694f8315914f41c2bc475550c64ee7d9231676f80743e55271b43a6257addf7422941bca2147f4884431899",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1145068116007718952",
+                "name": "new_qwertyui"
+            },
+            "tags": [
+                {
+                    "text": "KANYE WEST",
+                    "color": [
+                        189,
+                        135,
+                        55
+                    ]
+                }
+            ]
         }
     }
 }
