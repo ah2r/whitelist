@@ -94,6 +94,25 @@
                     ]
                 }
             ]
+        },
+        "9763164982": {
+            "hash": "9de6cf253e24f367e6511a040584f4c9d77dee495c8e2e1ff395290127ca4f74b055a1dcde660da3d9b06aef016410c0cdf26309a648a506bcd1e3d6918ebe7c",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "775852319979733023",
+                "name": "wavezc"
+            },
+            "tags": [
+                {
+                    "text": "NYX OWNER",
+                    "color": [
+                        161,
+                        91,
+                        228
+                    ]
+                }
+            ]
         }
     }
 }
