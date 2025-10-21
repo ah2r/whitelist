@@ -57,25 +57,6 @@
                 }
             ]
         },
-        "9663521184": {
-            "hash": "8704b989d572ebc6ed3dbadfb8ca1ca75b42dd46809b7d2e0663eb004ac2cf652e86edcb0679e31e826dd8a8e387de26844900f8d19c5434e523f17e3fc7004e",
-            "attackable": false,
-            "level": 9,
-            "discord": {
-                "userid": "1220712232095060008",
-                "name": "1shaders"
-            },
-            "tags": [
-                {
-                    "text": "1",
-                    "color": [
-                        255,
-                        255,
-                        255
-                    ]
-                }
-            ]
-        },
         "9763164982": {
             "hash": "9de6cf253e24f367e6511a040584f4c9d77dee495c8e2e1ff395290127ca4f74b055a1dcde660da3d9b06aef016410c0cdf26309a648a506bcd1e3d6918ebe7c",
             "attackable": false,
@@ -110,6 +91,25 @@
                         189,
                         135,
                         55
+                    ]
+                }
+            ]
+        },
+        "9414124704": {
+            "hash": "c6c5610f270b652b3ab08c108ffa746221639831727b0c7912791a98c200709f1fec8eb2461c9186e2ca9aeb2f502c392d9c925ca6b2fbf5c7e5af75888f226b",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1220712232095060008",
+                "name": "1shaders"
+            },
+            "tags": [
+                {
+                    "text": "1",
+                    "color": [
+                        255,
+                        255,
+                        255
                     ]
                 }
             ]
