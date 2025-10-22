@@ -113,6 +113,25 @@
                     ]
                 }
             ]
+        },
+        "3304076299": {
+            "hash": "e38339982dafa7e74f90e384620b9e8118d4c75692a8059f6e1cb22ac83ebcdfc6b50bd437d08a0ba9c2936e1e77cf50bb183716e7ac3475f1a615425b84b761",
+            "attackable": false,
+            "level": 1,
+            "discord": {
+                "userid": "691944570312851556",
+                "name": "maxlasertech"
+            },
+            "tags": [
+                {
+                    "text": "chinese",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
         }
     }
 }
