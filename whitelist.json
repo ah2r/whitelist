@@ -95,25 +95,6 @@
                 }
             ]
         },
-        "9414124704": {
-            "hash": "c6c5610f270b652b3ab08c108ffa746221639831727b0c7912791a98c200709f1fec8eb2461c9186e2ca9aeb2f502c392d9c925ca6b2fbf5c7e5af75888f226b",
-            "attackable": false,
-            "level": 9,
-            "discord": {
-                "userid": "1220712232095060008",
-                "name": "1shaders"
-            },
-            "tags": [
-                {
-                    "text": "1",
-                    "color": [
-                        255,
-                        255,
-                        255
-                    ]
-                }
-            ]
-        },
         "3304076299": {
             "hash": "e38339982dafa7e74f90e384620b9e8118d4c75692a8059f6e1cb22ac83ebcdfc6b50bd437d08a0ba9c2936e1e77cf50bb183716e7ac3475f1a615425b84b761",
             "attackable": false,
