@@ -76,25 +76,6 @@
                 }
             ]
         },
-        "9770747754": {
-            "hash": "783a4cf8563e51513399c9d6959aff4600018d55c1e0999a666924640a5328d2791bbd28be28b279576f2c009666fb72b630870308b05056a69e5677546c0ee3",
-            "attackable": true,
-            "level": 9,
-            "discord": {
-                "userid": "1145068116007718952",
-                "name": "new_qwertyui"
-            },
-            "tags": [
-                {
-                    "text": "KANYE WEST",
-                    "color": [
-                        189,
-                        135,
-                        55
-                    ]
-                }
-            ]
-        },
         "3304076299": {
             "hash": "e38339982dafa7e74f90e384620b9e8118d4c75692a8059f6e1cb22ac83ebcdfc6b50bd437d08a0ba9c2936e1e77cf50bb183716e7ac3475f1a615425b84b761",
             "attackable": false,
@@ -129,6 +110,25 @@
                         255,
                         255,
                         255
+                    ]
+                }
+            ]
+        },
+        "9772706335": {
+            "hash": "69cd8c8ff55b9f2e79605ef326e09ddad7c000b3a8f959486ec7f2deaf6ba9294d86132f2fd810d267d8d2cef4a82e28400bf4e90f0c72df4ae96a77b12dbfa3",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1145068116007718952",
+                "name": "new_qwertyui"
+            },
+            "tags": [
+                {
+                    "text": "KANYE WEST",
+                    "color": [
+                        189,
+                        135,
+                        55
                     ]
                 }
             ]
