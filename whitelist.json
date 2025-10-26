@@ -152,25 +152,6 @@
                 }
             ]
         },
-        "9774066393": {
-            "hash": "a84d02e963e545ddca765632f4d85f00b3df4256d06683a444bacfd168b85612f63477c73608903bb399e83e077b37c8a192d8afa469f2c0205e6bdb022643e3",
-            "attackable": false,
-            "level": 9,
-            "discord": {
-                "userid": "1145068116007718952",
-                "name": "new_qwertyui"
-            },
-            "tags": [
-                {
-                    "text": "CATVAPE OWNER",
-                    "color": [
-                        255,
-                        0,
-                        0
-                    ]
-                }
-            ]
-        },
         "9815234711": {
             "hash": "2468555ac33453d9d72c8c8f69a0faf5421bfdd6022822e21e3de2b519b329a0b3626a591d02ef80751896e849d8ec12b4bd0268593a338b1b63b675127909b5",
             "attackable": false,
@@ -186,6 +167,25 @@
                         255,
                         255,
                         255
+                    ]
+                }
+            ]
+        },
+        "9772706335": {
+            "hash": "69cd8c8ff55b9f2e79605ef326e09ddad7c000b3a8f959486ec7f2deaf6ba9294d86132f2fd810d267d8d2cef4a82e28400bf4e90f0c72df4ae96a77b12dbfa3",
+            "attackable": true,
+            "level": 9,
+            "discord": {
+                "userid": "1145068116007718952",
+                "name": "new_qwertyui"
+            },
+            "tags": [
+                {
+                    "text": "aa",
+                    "color": [
+                        255,
+                        0,
+                        0
                     ]
                 }
             ]
