@@ -114,25 +114,6 @@
                 }
             ]
         },
-        "9772706335": {
-            "hash": "69cd8c8ff55b9f2e79605ef326e09ddad7c000b3a8f959486ec7f2deaf6ba9294d86132f2fd810d267d8d2cef4a82e28400bf4e90f0c72df4ae96a77b12dbfa3",
-            "attackable": false,
-            "level": 9,
-            "discord": {
-                "userid": "1145068116007718952",
-                "name": "new_qwertyui"
-            },
-            "tags": [
-                {
-                    "text": "KANYE WEST",
-                    "color": [
-                        189,
-                        135,
-                        55
-                    ]
-                }
-            ]
-        },
         "4896131485": {
             "hash": "6b194f2a239365104f18473deb7337a8fe7ac72f3303aefdd4a8d955ac942585a5a81b3a8a9e55ff8a65d1f7ca984b77b12a64d2fcc7d85e87ec1ac6b64d7469",
             "attackable": false,
@@ -167,6 +148,25 @@
                         0,
                         0,
                         255
+                    ]
+                }
+            ]
+        },
+        "9774066393": {
+            "hash": "a84d02e963e545ddca765632f4d85f00b3df4256d06683a444bacfd168b85612f63477c73608903bb399e83e077b37c8a192d8afa469f2c0205e6bdb022643e3",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1145068116007718952",
+                "name": "new_qwertyui"
+            },
+            "tags": [
+                {
+                    "text": "CATVAPE OWNER",
+                    "color": [
+                        255,
+                        0,
+                        0
                     ]
                 }
             ]
