@@ -114,25 +114,6 @@
                 }
             ]
         },
-        "9815720734": {
-            "hash": "f3a20203cf25d1ceeb37eed29f3c839b039ca59f3f8e2a382a6d4b802cfe0018b5ee64e1e108b89d171076aa8f84e8c45d52c45c3fc599ca8f8b52a9ef5d0174",
-            "attackable": false,
-            "level": 9,
-            "discord": {
-                "userid": "1083989352297807992",
-                "name": "selunariorium"
-            },
-            "tags": [
-                {
-                    "text": "\u53ef\u4e0d",
-                    "color": [
-                        0,
-                        0,
-                        255
-                    ]
-                }
-            ]
-        },
         "9815234711": {
             "hash": "2468555ac33453d9d72c8c8f69a0faf5421bfdd6022822e21e3de2b519b329a0b3626a591d02ef80751896e849d8ec12b4bd0268593a338b1b63b675127909b5",
             "attackable": false,
@@ -186,6 +167,25 @@
                         255,
                         255,
                         255
+                    ]
+                }
+            ]
+        },
+        "8016286583": {
+            "hash": "20fa8a5b753e9e227738f78332a1c5c2e74d75083e7651698752ad1c5e6fa3d6737ae52984d1f12155dd61914936502b7e60acf52798f889787ead2f19055fad",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1083989352297807992",
+                "name": "selunariorium"
+            },
+            "tags": [
+                {
+                    "text": "Adolf Hitler",
+                    "color": [
+                        255,
+                        0,
+                        0
                     ]
                 }
             ]
