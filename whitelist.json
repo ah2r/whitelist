@@ -170,6 +170,25 @@
                     ]
                 }
             ]
+        },
+        "3403367778": {
+            "hash": "f082f0f89b0862cac7bbd00a0e9c75402ccbc4054dd4f2acb61ba7096415b7703169c100ed84044723ae0f9414d3447713bc72fda9f6badf5a9185b2f297c1d3",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1143161361795399701",
+                "name": "scriptsqp"
+            },
+            "tags": [
+                {
+                    "text": "IMAGINE DON'T HAVE CAT VAPE WHITELIST",
+                    "color": [
+                        255,
+                        0,
+                        0
+                    ]
+                }
+            ]
         }
     }
 }
