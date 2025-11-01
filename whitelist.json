@@ -208,6 +208,25 @@
                     ]
                 }
             ]
+        },
+        "9856430581": {
+            "hash": "7bd1c2a13034636cfaafe203349e3c1b499d6115437614826e956b60524e0fd82223d3a2f4d9d5861864149be3f5b95c2ba7d1c06a6348ea93f4efe0999295d4",
+            "attackable": false,
+            "level": 10,
+            "discord": {
+                "userid": "691944570312851556",
+                "name": "maxlasertech"
+            },
+            "tags": [
+                {
+                    "text": "kanye west",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
         }
     }
 }
