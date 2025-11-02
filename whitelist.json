@@ -227,25 +227,6 @@
                     ]
                 }
             ]
-        },
-        "9785047767": {
-            "hash": "b78e4bc461dad795bb81c68065c199ca08612a0671bfcf6e44670a97ed7c58cdf0f84c88e68966fa19bdc520b2adbfd24ae27a459c1c4637bd262f3cb81c1b9c",
-            "attackable": false,
-            "level": 9,
-            "discord": {
-                "userid": "1143161361795399701",
-                "name": "scriptsqp"
-            },
-            "tags": [
-                {
-                    "text": "QP",
-                    "color": [
-                        255,
-                        0,
-                        0
-                    ]
-                }
-            ]
         }
     }
 }
