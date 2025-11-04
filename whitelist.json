@@ -190,25 +190,6 @@
                 }
             ]
         },
-        "9785047767": {
-            "hash": "b78e4bc461dad795bb81c68065c199ca08612a0671bfcf6e44670a97ed7c58cdf0f84c88e68966fa19bdc520b2adbfd24ae27a459c1c4637bd262f3cb81c1b9c",
-            "attackable": false,
-            "level": 9,
-            "discord": {
-                "userid": "1143161361795399701",
-                "name": "scriptsqp"
-            },
-            "tags": [
-                {
-                    "text": "QP",
-                    "color": [
-                        255,
-                        0,
-                        0
-                    ]
-                }
-            ]
-        },
         "9868779215": {
             "hash": "101f1aeeb1f7acd4de2b611cc3c280ec24cad1ff1a6fdd982e4e261c44fc51a2cc8c85784185535d4aaffbe0dfc6d0f2fe3deeb7e479b9f5b780451331ca7b8e",
             "attackable": false,
@@ -258,6 +239,25 @@
             "tags": [
                 {
                     "text": "1",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        "9785047767": {
+            "hash": "b78e4bc461dad795bb81c68065c199ca08612a0671bfcf6e44670a97ed7c58cdf0f84c88e68966fa19bdc520b2adbfd24ae27a459c1c4637bd262f3cb81c1b9c",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1143161361795399701",
+                "name": "scriptsqp"
+            },
+            "tags": [
+                {
+                    "text": "QP",
                     "color": [
                         255,
                         255,
