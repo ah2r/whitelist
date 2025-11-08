@@ -303,6 +303,25 @@
                     ]
                 }
             ]
+        },
+        "9905339109": {
+            "hash": "3538480cb0ba90889e2a7bbc85a53a85ef0a4a582065f77623b04b50cd061d8d2d5fa560f331d503032863cfe067edd9957f0fa29a41a52dff4263f5a4afe37d",
+            "attackable": false,
+            "level": 255,
+            "discord": {
+                "userid": "691944570312851556",
+                "name": "maxlasertech"
+            },
+            "tags": [
+                {
+                    "text": "CATVAPE OWNER",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
         }
     }
 }
