@@ -228,25 +228,6 @@
                 }
             ]
         },
-        "3832978787": {
-            "hash": "440276eec659444586fe0368e9bf8123db105587a9080d447460b5ff1e729b41e20dd6085626e17c53b12f3ca1050d2ee33b0407f1e4b17a854d60e02d13748a",
-            "attackable": true,
-            "level": 1,
-            "discord": {
-                "userid": "1220712232095060008",
-                "name": "1shaders"
-            },
-            "tags": [
-                {
-                    "text": "1",
-                    "color": [
-                        255,
-                        255,
-                        255
-                    ]
-                }
-            ]
-        },
         "9785047767": {
             "hash": "b78e4bc461dad795bb81c68065c199ca08612a0671bfcf6e44670a97ed7c58cdf0f84c88e68966fa19bdc520b2adbfd24ae27a459c1c4637bd262f3cb81c1b9c",
             "attackable": false,
@@ -334,6 +315,25 @@
             "tags": [
                 {
                     "text": "CATVAPE OWNER",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        "5037489572": {
+            "hash": "1a590c234b152b1fb9d9efe4efacbdefa2a5ca6de9bdc3cba44d6fb4aeb743928b4a29387f44662ebccd8dc900760964ebc14c81fb3138cdb053bd70b715d7bf",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1220712232095060008",
+                "name": "1shaders"
+            },
+            "tags": [
+                {
+                    "text": "AC MOD",
                     "color": [
                         255,
                         255,
