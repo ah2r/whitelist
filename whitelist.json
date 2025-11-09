@@ -323,17 +323,17 @@
                 }
             ]
         },
-        "5037489572": {
-            "hash": "1a590c234b152b1fb9d9efe4efacbdefa2a5ca6de9bdc3cba44d6fb4aeb743928b4a29387f44662ebccd8dc900760964ebc14c81fb3138cdb053bd70b715d7bf",
-            "attackable": false,
-            "level": 9,
+        "3832978787": {
+            "hash": "440276eec659444586fe0368e9bf8123db105587a9080d447460b5ff1e729b41e20dd6085626e17c53b12f3ca1050d2ee33b0407f1e4b17a854d60e02d13748a",
+            "attackable": true,
+            "level": 8,
             "discord": {
                 "userid": "1220712232095060008",
                 "name": "1shaders"
             },
             "tags": [
                 {
-                    "text": "AC MOD",
+                    "text": "e",
                     "color": [
                         255,
                         255,
