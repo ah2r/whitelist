@@ -341,6 +341,25 @@
                     ]
                 }
             ]
+        },
+        "5037489572": {
+            "hash": "8233d4d7a835781249b87fd9af6cac17b15c8b567215a0757585647f8208a0a671fa65f0a1550811e7ed9c9c35e01fde69539d7f19bc8eddded09d69f28d3dda",
+            "attackable": false,
+            "level": 9,
+            "discord": {
+                "userid": "1220712232095060008",
+                "name": "1shaders"
+            },
+            "tags": [
+                {
+                    "text": "catvape admin",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
         }
     }
 }
