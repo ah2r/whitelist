@@ -33,6 +33,23 @@
                     ]
                 }
             ]
+        },
+        "bbf0e647bb3b0a73d85977bc30c27f3a316465ef2bfc2f19ec050b31fce1c6f4594b727c76953340a98f1e0ccbc7fd78ccd0cd55065d77863c493337ae5bae28": {
+            "hash": "2cf1faddba937aa4fed3b786c0192420cec9a44d9352c3aa99f92b68c7935bd5cf9364cb69e3572d1b13e8a257bbc4a849eb09e282ddf4db8fdb89712e821e42",
+            "attackable": false,
+            "level": 9,
+            "discord": "1abf2512e341266890ce946b2bdbada36ff9f3c88252ac0fc4a075a94154d0a30c31e05d4cc1f8fae9f5b26d87427965a1f395b3f645ad3a786fb2fd28a1df69",
+            "hidetags": true,
+            "tags": [
+                {
+                    "text": "fr",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
         }
     }
 }
