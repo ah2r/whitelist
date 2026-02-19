@@ -4,5 +4,8 @@
         "targets": "all",
         "expiretime": 1771504425.7409327,
         "text": "yo"
+    },
+    "BlacklistedUsers": {
+        "1": true
     }
 }
