@@ -1,3 +1,8 @@
 {
-    "WhitelistedUsers": {}
+    "WhitelistedUsers": {},
+    "Announcement": {
+        "targets": "all",
+        "text": "hi",
+        "expiretime": 0
+    }
 }
