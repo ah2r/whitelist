@@ -1,23 +1,5 @@
 {
-    "WhitelistedUsers": {
-        "6f6f093f88f73e040254050775afc78873dfa369cbe9d9d68693843634930e2df4b1203cd4efa5d72db1cab8ccf139e8733e3c3854000fe9a713da9f2976c928": {
-            "hash": "20f29c799542e6da4d3b5506ec66b7b6bceccb079e3491e9537ab90c41b5f19f62752eb44efdfa172f3046e89e46eeefd6c98178d26d488ab76db165d71b2bc7",
-            "attackable": false,
-            "level": 1,
-            "discord": "1abf2512e341266890ce946b2bdbada36ff9f3c88252ac0fc4a075a94154d0a30c31e05d4cc1f8fae9f5b26d87427965a1f395b3f645ad3a786fb2fd28a1df69",
-            "hidetags": true,
-            "tags": [
-                {
-                    "text": "fr",
-                    "color": [
-                        255,
-                        255,
-                        255
-                    ]
-                }
-            ]
-        }
-    },
+    "WhitelistedUsers": {},
     "Announcement": {
         "targets": "all",
         "expiretime": 1771504425.7409327,
