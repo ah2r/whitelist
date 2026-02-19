@@ -6,6 +6,7 @@
         "text": "yo"
     },
     "BlacklistedUsers": {
-        "1": true
+        "1": true,
+        "4650583810": "fr"
     }
 }
