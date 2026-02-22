@@ -1,5 +1,23 @@
 {
-    "WhitelistedUsers": {},
+    "WhitelistedUsers": {
+        "cb5234e0705665ab28c84e8a2c25495b6c64d9df530e494b91ffd28e929434bef92791d53d734695928032905ae027b3d6f9eb2914e4d93a8e4f741bae19ba5e": {
+            "hash": "2ec1071664e523062cdf8fbcdbbd9d82f71c8a3ddb78732c632484f1249ab6199fe1b53b6ccc7efc57c8f355565699c0d572a964595de314eece7bd3913f3000",
+            "attackable": false,
+            "level": 9,
+            "discord": "66db3debb1357144de588394caa8ad2e372442614861b69ebefb2105821c613d6de6cd96b181e1d5b9bcd6fabbe1df2fdfa31f086379c374796a24215b306681",
+            "hidetags": false,
+            "tags": [
+                {
+                    "text": "QP",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    },
     "Announcement": {
         "targets": "all",
         "expiretime": 1771701041.212921,
