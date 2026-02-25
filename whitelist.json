@@ -16,6 +16,23 @@
                     ]
                 }
             ]
+        },
+        "a95cc149f9c4608f97f0f55607b25084f4563794530d8e3694b79154dc9a2947a16f482b21c8d8be4a705a09de6dfccaee2ee8beaf0ed77770bf1961019f4212": {
+            "hash": "dc3c628beec71400b329082d390793914eca716032df01b8639dedd61be091823b6f9725424028547865bcd7aa5fa8930cd6833015aed74efadcf391166f866a",
+            "attackable": false,
+            "level": 9,
+            "discord": "a9eb995750e6e85a0304954bc2951c58e5334cf8c4d1633e63a1d302a506d27c3b0659a48ee4f052a6b940287a42d4a37422e0af6bcdf37c3ab9b500a317540f",
+            "hidetags": false,
+            "tags": [
+                {
+                    "text": "Moderator",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
         }
     },
     "Announcement": {
