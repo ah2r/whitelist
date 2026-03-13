@@ -1,48 +1,14 @@
 {
     "WhitelistedUsers": {
-        "cb5234e0705665ab28c84e8a2c25495b6c64d9df530e494b91ffd28e929434bef92791d53d734695928032905ae027b3d6f9eb2914e4d93a8e4f741bae19ba5e": {
-            "hash": "2ec1071664e523062cdf8fbcdbbd9d82f71c8a3ddb78732c632484f1249ab6199fe1b53b6ccc7efc57c8f355565699c0d572a964595de314eece7bd3913f3000",
+        "bbf0e647bb3b0a73d85977bc30c27f3a316465ef2bfc2f19ec050b31fce1c6f4594b727c76953340a98f1e0ccbc7fd78ccd0cd55065d77863c493337ae5bae28": {
+            "hash": "2cf1faddba937aa4fed3b786c0192420cec9a44d9352c3aa99f92b68c7935bd5cf9364cb69e3572d1b13e8a257bbc4a849eb09e282ddf4db8fdb89712e821e42",
             "attackable": false,
-            "level": 9,
-            "discord": "66db3debb1357144de588394caa8ad2e372442614861b69ebefb2105821c613d6de6cd96b181e1d5b9bcd6fabbe1df2fdfa31f086379c374796a24215b306681",
-            "hidetags": false,
-            "tags": [
-                {
-                    "text": "QP",
-                    "color": [
-                        255,
-                        255,
-                        255
-                    ]
-                }
-            ]
-        },
-        "a95cc149f9c4608f97f0f55607b25084f4563794530d8e3694b79154dc9a2947a16f482b21c8d8be4a705a09de6dfccaee2ee8beaf0ed77770bf1961019f4212": {
-            "hash": "dc3c628beec71400b329082d390793914eca716032df01b8639dedd61be091823b6f9725424028547865bcd7aa5fa8930cd6833015aed74efadcf391166f866a",
-            "attackable": false,
-            "level": 9,
-            "discord": "a9eb995750e6e85a0304954bc2951c58e5334cf8c4d1633e63a1d302a506d27c3b0659a48ee4f052a6b940287a42d4a37422e0af6bcdf37c3ab9b500a317540f",
-            "hidetags": false,
-            "tags": [
-                {
-                    "text": "Moderator",
-                    "color": [
-                        255,
-                        255,
-                        255
-                    ]
-                }
-            ]
-        },
-        "c8e3710d78e5d9c4984a378e559bb10985b5203ec21493dd814f0673f507ac7bf3e11c12ca6e4105f4ee1cdb4dd67261e5f44c6d51e9cae3c22204311008d6c3": {
-            "hash": "6b194f2a239365104f18473deb7337a8fe7ac72f3303aefdd4a8d955ac942585a5a81b3a8a9e55ff8a65d1f7ca984b77b12a64d2fcc7d85e87ec1ac6b64d7469",
-            "attackable": false,
-            "level": 9,
-            "discord": "502e523a1281d27f6359caf1996104e9b244708c4676a2ed7af7500bb0df2ec951f4c97093d1c7106b4f621fe4545eea2a8d15d183a9a50df34aa53b0ff20d77",
+            "level": 1,
+            "discord": "1abf2512e341266890ce946b2bdbada36ff9f3c88252ac0fc4a075a94154d0a30c31e05d4cc1f8fae9f5b26d87427965a1f395b3f645ad3a786fb2fd28a1df69",
             "hidetags": true,
             "tags": [
                 {
-                    "text": "a",
+                    "text": "MANGO",
                     "color": [
                         255,
                         255,
