@@ -1,14 +1,14 @@
 {
     "WhitelistedUsers": {
-        "bbf0e647bb3b0a73d85977bc30c27f3a316465ef2bfc2f19ec050b31fce1c6f4594b727c76953340a98f1e0ccbc7fd78ccd0cd55065d77863c493337ae5bae28": {
-            "hash": "2cf1faddba937aa4fed3b786c0192420cec9a44d9352c3aa99f92b68c7935bd5cf9364cb69e3572d1b13e8a257bbc4a849eb09e282ddf4db8fdb89712e821e42",
+        "956864b5a5318b81c64d050debc82d3d4f63530ff2290466ca63557f3d0a83318606aa9a6f0022da93a061709896f9a3df380029cc6def87cf76f4c22f47ce2f": {
+            "hash": "dc88d985b28ac1be663ff8e666a309ebaaa44e26244846bd5aeb625524cd638ecefaac03b3f733eccde9b37415f6592052ad805f515f323dfea49853228b1faf",
             "attackable": false,
-            "level": 1,
-            "discord": "1abf2512e341266890ce946b2bdbada36ff9f3c88252ac0fc4a075a94154d0a30c31e05d4cc1f8fae9f5b26d87427965a1f395b3f645ad3a786fb2fd28a1df69",
-            "hidetags": true,
+            "level": 9,
+            "discord": "a9eb995750e6e85a0304954bc2951c58e5334cf8c4d1633e63a1d302a506d27c3b0659a48ee4f052a6b940287a42d4a37422e0af6bcdf37c3ab9b500a317540f",
+            "hidetags": false,
             "tags": [
                 {
-                    "text": "MANGO",
+                    "text": "Hello!",
                     "color": [
                         255,
                         255,
@@ -23,9 +23,5 @@
         "expiretime": 1771701041.212921,
         "text": "hi"
     },
-    "BlacklistedUsers": {
-        "1688": "fr",
-        "17635079": "fsf",
-        "10187885623": "ur blacklisted noob"
-    }
+    "BlacklistedUsers": {}
 }
