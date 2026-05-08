@@ -1,12 +1,11 @@
 {
     "WhitelistedUsers": {
-        "1": {
-            "hash": "69d02d3b18d1cb6269d1db817120a675e7d5a75f0c032b79506377e038eacafac04261f8d706c811d8dced552b5e9404064890295e433c2bc62f9e1033453ff5",
+        "07b5818660e0f8a8e9319b573e2081f3688a502dcdb8db7be27338d8b50b15df0768d0392ac778879339d1c0194ae73d09ff88f0357dbd07b0cbcb7de579e685": {
             "attackable": true,
             "level": 1,
             "tags": [
                 {
-                    "text": "test",
+                    "text": "im deteccted",
                     "color": [
                         255,
                         255,
