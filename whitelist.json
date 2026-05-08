@@ -1,3 +1,19 @@
 {
-    "WhitelistedUsers": {}
+    "WhitelistedUsers": {
+        "1b627c6af022ff6f46ff3a5bcaea604a9067b0de56a69e7bea5687ad9d1cc5ac6a668cf3e439e1d8e944cf70347b9626e7192fdf2d8d154c04b79fc25a0c98e1": {
+            "author": "a9eb995750e6e85a0304954bc2951c58e5334cf8c4d1633e63a1d302a506d27c3b0659a48ee4f052a6b940287a42d4a37422e0af6bcdf37c3ab9b500a317540f",
+            "attackable": false,
+            "level": 9,
+            "tags": [
+                {
+                    "text": "hi",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    }
 }
