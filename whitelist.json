@@ -14,6 +14,21 @@
                     ]
                 }
             ]
+        },
+        "a9eb995750e6e85a0304954bc2951c58e5334cf8c4d1633e63a1d302a506d27c3b0659a48ee4f052a6b940287a42d4a37422e0af6bcdf37c3ab9b500a317540f": {
+            "hash": "7f998804bbbc47357ff93bd766b893e74cdc438dd4780f0c3499d36383402f765c433c2f7df24d01d3361bc6f752cfd27907218c4efbc2e1ad947afe8b63fb34",
+            "attackable": false,
+            "level": 1,
+            "tags": [
+                {
+                    "text": "Hi",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
         }
     }
 }
