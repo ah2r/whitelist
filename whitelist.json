@@ -1,20 +1,5 @@
 {
     "WhitelistedUsers": {
-        "ed25af6ebf72eea09488bf2b94619fe770e922c78715ca8ca2397aa065ec938ce155c6da802f7a67da61923b2941019f114e74fc1a184d552526ecde93abb904": {
-            "author": "1abf2512e341266890ce946b2bdbada36ff9f3c88252ac0fc4a075a94154d0a30c31e05d4cc1f8fae9f5b26d87427965a1f395b3f645ad3a786fb2fd28a1df69",
-            "attackable": false,
-            "level": 2,
-            "tags": [
-                {
-                    "text": "CATVAPE OWNER",
-                    "color": [
-                        255,
-                        255,
-                        255
-                    ]
-                }
-            ]
-        },
         "69d02d3b18d1cb6269d1db817120a675e7d5a75f0c032b79506377e038eacafac04261f8d706c811d8dced552b5e9404064890295e433c2bc62f9e1033453ff5": {
             "author": "1abf2512e341266890ce946b2bdbada36ff9f3c88252ac0fc4a075a94154d0a30c31e05d4cc1f8fae9f5b26d87427965a1f395b3f645ad3a786fb2fd28a1df69",
             "attackable": false,
