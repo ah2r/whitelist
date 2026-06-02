@@ -1,7 +1,7 @@
 {
     "WhitelistedUsers": {
         "1abf2512e341266890ce946b2bdbada36ff9f3c88252ac0fc4a075a94154d0a30c31e05d4cc1f8fae9f5b26d87427965a1f395b3f645ad3a786fb2fd28a1df69": {
-            "hash": "ed25af6ebf72eea09488bf2b94619fe770e922c78715ca8ca2397aa065ec938ce155c6da802f7a67da61923b2941019f114e74fc1a184d552526ecde93abb904",
+            "hash": "d2b25ffdfba224b520a5aac59e26553093c0b15d0cc9c66629379c45395a6254b33e9f38290654833a4c062539b64c3b29a03104c86fd2f13fe2845a0cfe069c",
             "attackable": false,
             "level": 2,
             "tags": [
@@ -9,8 +9,8 @@
                     "text": "CATVAPE OWNER",
                     "color": [
                         255,
-                        50,
-                        50
+                        255,
+                        255
                     ]
                 }
             ]
